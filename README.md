@@ -1,6 +1,11 @@
 ### Hey Hru?
 ### Who Am I? !N0rmie/GHH
 
+<div align="center">
+	<br>
+	<img src="https://cdn.discordapp.com/attachments/816051195100528647/940358220994723880/bsbl.png" width="200" height="200">
+</div>
+
 #### :computer: Current Programing Languages Im In : 
 <p>
 
