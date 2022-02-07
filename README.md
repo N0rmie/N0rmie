@@ -12,3 +12,5 @@
 <code><img width="6%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fmartz90%2Fhex%2F512%2Fhtml-5-icon.png&f=1&nofb=1"></code>
 <code><img width="6%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fmartz90%2Fhex%2F512%2Fcss-3-icon.png&f=1&nofb=1"></code>
 </p>
+
+<sub>Credits to: <br/>[FernandoRoldan93](https://github.com/FernandoRoldan93) for the laguages block</sub>
