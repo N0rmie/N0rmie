@@ -14,7 +14,7 @@
 - ⚔️· Trying to recover and protect our "privacy" from rats...
 - 👓· "Mi pueblo me crió para defenderme con quien sea" - L-Gante...
 
-## :computer: Current Programing Languages Im In : 
+## :computer: Current Programing Languages Im Working In : 
 <p>
 	<div align="center">
 		<code><img width="5%" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
