@@ -29,6 +29,13 @@
 
 ## 👋 Reach out to me 
 - 💬 Ask me about anything.
-- <img width="2%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2017%2F11%2Fdiscord-logo-1.png&f=1&nofb=1"> [Discord](https://discord.gg/x93s3bEcdZ)
+- <a href="https://discord.gg/x93s3bEcdZ">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
+  </a>
 
-<sub>Credits to: <br/>[FernandoRoldan93](https://github.com/FernandoRoldan93) for the laguages block</sub>
+
+## Friends
+
+<img href= src="https://opencollective.com/standard-readme/contributors.svg?width=890&button=false" /></a>
