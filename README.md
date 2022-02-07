@@ -5,6 +5,9 @@
 	<br>
 	<img src="https://cdn.discordapp.com/attachments/816051195100528647/940358220994723880/bsbl.png" width="600" height="250">
 </div>
+
+- 🌱 I’m currently learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+
 #### 💬Who Am I? !N0rmie/GHH
 - 📄· Just a guy who tries to learn cibersecurity and some programming languages.
 - 📍· Spain
