@@ -26,4 +26,7 @@
 	</div>
 </p>
 
+### Now Playing
+[![Spotify](https://novatorem.sachinchaturvedi93.vercel.app/api/spotify)](https://open.spotify.com/user/flipcase93)
+
 <sub>Credits to: <br/>[FernandoRoldan93](https://github.com/FernandoRoldan93) for the laguages block</sub>
