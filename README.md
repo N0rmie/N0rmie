@@ -34,8 +34,3 @@
       align="center"
       src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
   </a>
-
-
-## Friends
-
-<img href= src="https://opencollective.com/standard-readme/contributors.svg?width=890&button=false" /></a>
