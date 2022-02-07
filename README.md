@@ -1,5 +1,5 @@
-### Hey Hru?
-### Who Am I? !N0rmie/GHH
+## Hey Hru?
+## Who Am I? !N0rmie/GHH
 
 <div align="center">
 	<br>
