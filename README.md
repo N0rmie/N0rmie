@@ -3,7 +3,7 @@
 
 <div align="center">
 	<br>
-	<img src="https://cdn.discordapp.com/attachments/816051195100528647/940358220994723880/bsbl.png" width="200" height="200">
+	<img src="https://cdn.discordapp.com/attachments/816051195100528647/940358220994723880/bsbl.png" width="800" height="400">
 </div>
 
 #### :computer: Current Programing Languages Im In : 
