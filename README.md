@@ -6,9 +6,9 @@
 	<img src="https://cdn.discordapp.com/attachments/816051195100528647/940358220994723880/bsbl.png" width="600" height="250">
 </div>
 ## 💬Who Am I? !N0rmie/GHH
-📄· Just a guy who tries to learn cibersecurity and some programming languages.
-📍· Spain
-⚔️· Trying to recover and protect our "privacy" from rats...
+-📄· Just a guy who tries to learn cibersecurity and some programming languages.
+-📍· Spain
+-⚔️· Trying to recover and protect our "privacy" from rats...
 
 #### :computer: Current Programing Languages Im In : 
 <p>
