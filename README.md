@@ -7,11 +7,12 @@
 </div>
 
 
-#### 💬Who Am I? !N0rmie/GHH
+## 💬Who Am I? !N0rmie/GHH
 - 📄· Just a guy who tries to learn cibersecurity and some programming languages.
 - 📍· Spain
 - 👤· He/Him
 - ⚔️· Trying to recover and protect our "privacy" from rats...
+- 👓· "Mi pueblo me crió pa´ defenderme con quien sea" - L-Gante...
 
 ## :computer: Current Programing Languages Im In : 
 <p>
