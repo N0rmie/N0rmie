@@ -28,6 +28,6 @@
 
 ## 👋 Reach out to me 
 - 💬 Ask me about anything.
-- <img width="5%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2017%2F11%2Fdiscord-logo-1.png&f=1&nofb=1"> Discord: [Discord](https://discord.gg/x93s3bEcdZ)
+- <img width="2%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2017%2F11%2Fdiscord-logo-1.png&f=1&nofb=1"> Discord: [Discord](https://discord.gg/x93s3bEcdZ)
 
 <sub>Credits to: <br/>[FernandoRoldan93](https://github.com/FernandoRoldan93) for the laguages block</sub>
