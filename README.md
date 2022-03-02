@@ -12,7 +12,7 @@
 - 📍· Spain
 - 👤· He/Him
 - ⚔️· Trying to recover and protect our "privacy" from rats...
-- 👓· "Mi pueblo me crió para defenderme con quien sea" - L-Gante...
+- ⛓· Breaking/bypassing security systems like solving Rubik's cubes
 
 ## :computer: Current Programing Languages Im Working In : 
 <p>
