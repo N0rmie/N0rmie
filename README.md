@@ -10,7 +10,6 @@
 ## 💬Who Am I? !N0rmie/GHH
 - 📄· Just a guy who tries to learn cibersecurity and some programming languages.
 - 📍· Spain
-- 👤· He/Him
 - ⚔️· Trying to recover and protect our "privacy" from rats...
 - ⛓· Breaking/bypassing security systems like solving Rubik's cubes
 
