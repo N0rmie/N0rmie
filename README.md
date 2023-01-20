@@ -29,8 +29,5 @@
 
 ## 👋 Reach out to me 
 - 💬 Ask me about anything.
-- <a href="https://discord.gg/x93s3bEcdZ">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
-  </a>
+🔌 Session:
+05fd15a675702ba639d02cb524c5eec751eb7581bfc135c84964b6a9f2c2e34872
